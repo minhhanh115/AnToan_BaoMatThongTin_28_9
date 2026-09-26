@@ -1,6 +1,8 @@
-# BÁO CÁO: MÃ HÓA ĐỐI XỨNG (DES/AES) VÀ MÃ HÓA BẤT ĐỐI XỨNG (RSA)
+# BÀI TẬP NGÀY 28-9
 
 **Môn học:** An toàn và bảo mật thông tin
+**Sinh viên:** Nguyễn Minh Hạnh
+**Lớp:** 
 
 ---
 
